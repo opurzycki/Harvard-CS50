@@ -9,7 +9,7 @@
 
 ### What I built
 
-- [hello.c](pset1/hello.c), a classic Hello World program
+- [hello.c](./hello.c), a classic Hello World program
 - [mario.c](pset1/mario.c), a program that prints out pyramid of a specified height, per the example below:
 
 ```
