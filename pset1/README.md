@@ -11,7 +11,8 @@
 
 - [hello.c](pset1/hello.c), classic Hello World program
 - [mario.c](pset1/mario.c), a program that prints out pyramid of a specified height, per the example below:
-'''
+
+```
 $ ./mario
 Height: 3
    #  #
@@ -25,4 +26,4 @@ Height: 5
   ###  ###
  ####  ####
 #####  #####
-'''
+```
