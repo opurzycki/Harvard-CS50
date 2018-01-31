@@ -9,7 +9,7 @@
 
 ### What I built
 
-- [hello.c](pset1/hello.c), classic Hello World program
+- [hello.c](pset1/hello.c), a classic Hello World program
 - [mario.c](pset1/mario.c), a program that prints out pyramid of a specified height, per the example below:
 
 ```
@@ -26,4 +26,16 @@ Height: 5
   ###  ###
  ####  ####
 #####  #####
+```
+- [credit.c](pset1/credit.c), a program that determines whether a provided credit card number is valid according to Luhn’s algorithm, per the example below:
+
+```
+$ ./credit
+Number: 378282246310005
+AMEX
+
+$ ./credit
+Number: 6176292929
+INVALID
+
 ```
